@@ -1,2 +1,1 @@
-# zombie-game
-zombie vs john
+# Zombie-Shooter-stage-2
